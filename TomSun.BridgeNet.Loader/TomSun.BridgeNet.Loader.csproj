@@ -1,11 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>net40</TargetFramework>
   </PropertyGroup>
-<ItemGroup>
+  <ItemGroup>
     <PackageReference Include="Bridge" Version="*" />
     <PackageReference Include="Bridge.Core" Version="*" />
-	<PackageReference Include="Retyped.dom" Version="*" />
-</ItemGroup>
+    <PackageReference Include="Retyped.dom" Version="*" />
+  </ItemGroup>
 </Project>
